@@ -1,4 +1,4 @@
-# Login antigo do site "Trello"
+# Página de login
 Este projeto consiste no desenvolvimento de uma tela de login, com foco em praticar conceitos de desenvolvimento front-end.
 
 # Tecnologias
