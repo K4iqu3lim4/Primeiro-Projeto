@@ -7,4 +7,5 @@ Este projeto consiste no desenvolvimento de uma tela de login, com foco em prati
 
 # Prévia
 
-<img width="1907" height="863" alt="Captura de tela 2026-05-13 142550" src="https://github.com/user-attachments/assets/9080f032-d7bf-4d3c-84a4-21543e47937d" />
+<img width="1894" height="907" alt="image" src="https://github.com/user-attachments/assets/68b42cc2-382e-48a0-87d9-0533ec457f9f" />
+
